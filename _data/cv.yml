@@ -15,8 +15,8 @@
       institution: University of Alberta, Alberta, Canada
       year: 2024
       description:
-        - The Specialization in Computing Science.
-    #     - Description 2.
+        - "Major: The Specialization in Computing Science."
+        - "Related Coursework: Computer Networks, Computer Architecture, Web Development, Mobile App Development, Interface Design, Database Management, Machine Learning, Agile Methodology, Reinforcement Learning."
     #     - title: Description 3.
     #       contents:
     #         - Sub-description 1.
@@ -33,7 +33,7 @@
   contents:
     - title: Undergraduate Teaching Assistant
       institution: University of Alberta.
-      year: 2022-Present
+      year: Present
       description:
         - title: CMPUT 201 - Practical Programming Methodology.
           contents:
